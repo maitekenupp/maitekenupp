@@ -1,79 +1,62 @@
 # Hi, I'm Maitê 👋
 
-## Business Analyst | Process Automation | Data & AI Solutions
+## Business Analyst | Process Automation | Data Analytics
 
-I design practical automation and analytics solutions that simplify business operations, reduce manual work, and improve reporting accuracy.
+I build automation and reporting solutions that improve business processes, eliminate manual work, and support data-driven decision making.
 
-My portfolio focuses on real-world business applications using Excel, Power Query, VBA, Google Apps Script, Power BI, APIs, PowerShell, and AI-assisted development.
-
----
-
-## 🚀 What I Work With
-
-- **Business Process Automation**
-- **Excel VBA and Office Automation**
-- **Power Query and Data Transformation**
-- **Power BI and Business Intelligence**
-- **Google Apps Script**
-- **JavaScript and API Integrations**
-- **PowerShell Automation**
-- **FastAPI and Workflow Applications**
-- **AI-Assisted Solution Development**
-- **Business Analysis and Process Improvement**
+My projects focus on practical business applications using Excel, Power Query, VBA, Google Apps Script, Power BI, APIs, and Python.
 
 ---
 
-## 📌 Featured Projects
+## Technologies
 
-### [Google Apps Script Slack Bot](https://github.com/maitekenupp/google-apps-script-slack-bot)
-
-A Slack-based contractor operations system built with Google Apps Script, Notion, and Google Drive.
-
-The solution supports project staffing, time tracking, document organization, and invoice automation.
-
-**Technologies:** Google Apps Script, JavaScript, Slack API, Notion API, Google Drive
-
----
-
-### [FastAPI QR Workflow Tracker](https://github.com/maitekenupp/fastapi-qr-workflow-tracker)
-
-A mobile-first FastAPI prototype for QR-driven production, delivery, and installation workflows.
-
-The project demonstrates how QR codes and lightweight web applications can improve operational tracking and field visibility.
-
-**Technologies:** Python, FastAPI, HTML, CSS, QR workflows
+| Data & Analytics | Automation & Development |
+|------------------|--------------------------|
+| Excel | VBA |
+| Power Query | Google Apps Script |
+| Power BI | JavaScript |
+| Reporting Automation | REST APIs |
+| Data Analysis | PowerShell |
 
 ---
 
-## 📊 Areas of Expertise
+## Featured Projects
+
+### Google Apps Script Slack Bot
+Business operations platform built with Google Apps Script, Slack, Notion, and Google Drive to automate staffing, time tracking, document management, and invoicing.
+
+**Stack:** Google Apps Script · JavaScript · Slack API · Notion API
+
+---
+
+### FastAPI QR Workflow Tracker
+Prototype for QR-based production, delivery, and installation tracking designed to improve operational visibility.
+
+**Stack:** Python · FastAPI · HTML · CSS
+
+---
+
+## Core Competencies
 
 - Business Analysis
-- Workflow Optimization
-- Process Mapping
-- Reporting Automation
+- Process Improvement
+- Workflow Automation
 - Data Transformation
-- Operational Dashboards
-- API-Based Integrations
+- Dashboard Development
+- API Integrations
 - Technical Documentation
-- Continuous Process Improvement
 
 ---
 
-## 🌱 Currently Expanding My Skills
+## Currently Building
 
-- Python backend development
+- Python
 - FastAPI
-- AI workflow automation
-- Cloud integrations
-- Enterprise automation architecture
+- Cloud Integrations
+- Enterprise Automation
 
 ---
 
-## 🤝 Connect With Me
+## Connect
 
-[LinkedIn](https://www.linkedin.com/in/mait%C3%AA-kenupp/)  
-[GitHub Portfolio](https://github.com/maitekenupp)
-
----
-
-> I build solutions that turn repetitive business processes into scalable, reliable, and user-friendly workflows.
+- **LinkedIn:** https://linkedin.com/in/maitê-kenupp
